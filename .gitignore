@@ -1,0 +1,6 @@
+deploy
+linux
+*.*.renamed
+rcc*.*
+*.cpp
+*.qrc
