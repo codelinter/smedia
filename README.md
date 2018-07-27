@@ -1,5 +1,5 @@
 # What is smedia?
-Upload images to instagram and facebook pages in one go. `smedia` is a desktop app hence it ***does not*** ship with FB app credentials. This app is created to help [bpaindia](bpaindia.org) to be more productive in the social media platform as they tend to post(upload) images quite often and doing so seperately slows them down.
+Upload images to instagram and facebook pages in one go. `smedia` is a desktop app hence it ***does not*** ship with FB app credentials. This app is created to help [bpaindia](http://www.bpaindia.org) to be more productive in the social media platform as they tend to post(upload) images quite often and doing so seperately slows them down.
 
 # Licensing
 I personally dont have any restrictive clause so you are free to do whatever you want. But since the underlying technology uses the `qt framework`, their license still holds true. Please visit `https://www.qt.io` for more information on this.
